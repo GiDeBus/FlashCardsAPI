@@ -16,19 +16,19 @@ public class Card {
         return id;
     }
 
-    public String getFront() {
+    public String getFrontSide() {
         return frontSide;
     }
 
-    public String getBack() {
+    public String getBackSide() {
         return backSide;
     }
 
-    public String setFront(String text) {
+    public void setFrontSide(String text) {
         this.frontSide = text;
     }
 
-    public String setBack(String text) {
+    public void setBackSide(String text) {
         this.backSide = text;
     }
 }
