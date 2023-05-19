@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5df10ac6-16c7-46f9-8f82-84894814f14a" name="Changes" comment="" />
+    <list default="true" id="5df10ac6-16c7-46f9-8f82-84894814f14a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/flashCardsAPI/flashCardsAPI/api/model/CardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,10 +43,50 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "add-card-class",
     "last_opened_file_path": "/Users/gidebus/software/flashCardsAPI"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.CardTest.setterMethodsWorks">
+    <configuration name="CardTest.getterMethodsWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flashCardsAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flashCardsAPI.flashCardsAPI.api.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flashCardsAPI.flashCardsAPI.api.model" />
+      <option name="MAIN_CLASS_NAME" value="com.flashCardsAPI.flashCardsAPI.api.model.CardTest" />
+      <option name="METHOD_NAME" value="getterMethodsWorks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardTest.setterMethodsWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flashCardsAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flashCardsAPI.flashCardsAPI.api.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flashCardsAPI.flashCardsAPI.api.model" />
+      <option name="MAIN_CLASS_NAME" value="com.flashCardsAPI.flashCardsAPI.api.model.CardTest" />
+      <option name="METHOD_NAME" value="setterMethodsWorks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CardTest.setterMethodsWorks" />
+        <item itemvalue="JUnit.CardTest.getterMethodsWorks" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
