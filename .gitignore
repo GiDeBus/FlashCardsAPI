@@ -38,7 +38,7 @@ target/
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea/workspace.xml
+.idea/
 
 # AWS User-specific
 .idea/**/aws.xml
