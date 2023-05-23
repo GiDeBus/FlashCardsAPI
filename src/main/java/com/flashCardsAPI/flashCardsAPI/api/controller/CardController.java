@@ -11,12 +11,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class CardController {
 
-    private CardService cardService;
+    private final CardService cardService;
 
     @Autowired
-    public CardController cardController(CardService cardService) {
+    public CardController(CardService cardService) {
         this.cardService = cardService;
-        return null;
     }
 
     @GetMapping("/card")
